@@ -1,7 +1,8 @@
 public class Chapter4Sol {
     public static void main(String[] args) {
         // switch statements
-      /*  int age =70;
+        String n= yash;
+        int age =70;
         switch (age){
             case 18 :
                 System.out.println("you are adult");
@@ -14,7 +15,7 @@ public class Chapter4Sol {
                 break;
             default:
                 System.out.println("enjoy");
-        }*/
+        }
 
         // income tax
 
